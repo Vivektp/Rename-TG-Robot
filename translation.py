@@ -10,7 +10,7 @@ Support Group : @CrazyBotszGrp & @InFoTelGroup"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "You are Banned Bruhh🤣🤣"
-    UPGRADE_TEXT = "CONTACT @Psykid_The_Bot"
+    UPGRADE_TEXT = "CONTACT Psykid_The_Bot"
     DOWNLOAD_START = "Downloading😊"
     UPLOAD_START = "Uploading✨"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? Use @PUBLIC_LEECH_2"
